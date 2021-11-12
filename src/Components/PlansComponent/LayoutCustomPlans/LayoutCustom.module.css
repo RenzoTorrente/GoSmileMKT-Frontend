@@ -1,0 +1,11 @@
+.layoutmain{
+background-image:url("../../../assets/img/bannergreen2.jpg");
+color:white;
+height: 170px;
+
+}
+@media (max-width:900px) {
+.layoutmain{
+height:auto 
+}    
+}

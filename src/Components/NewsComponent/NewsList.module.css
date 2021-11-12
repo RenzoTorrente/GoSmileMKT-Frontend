@@ -1,0 +1,29 @@
+.d-md-tablecell {
+    display: none
+}
+
+@media (min-width: 720px) {
+    .d-md-tablecell {
+        display: table-cell
+    }
+}
+
+.button_pagination{
+    color:#0D1821;
+    padding:10px;
+    width:30px;
+    background:#EDF2F7;
+    border-radius: 4px;
+    margin-left: 6px;
+    margin-right: 6px;
+}
+
+.blockedbutton{
+ color:white;
+ background: rgb(72, 125, 168);
+ padding:10px;
+ width:30px;
+ border-radius: 4px;
+ margin-left: 6px;
+ margin-right: 6px;
+}

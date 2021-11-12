@@ -1,0 +1,32 @@
+._wrapper{
+    width: 100%;
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 10px;
+}
+._editor{
+    width: 100%;
+    box-shadow: 1px 1px 1px #ccc;
+    height: 250px;
+    border:0.5px solid #ccc;
+    padding:5px;
+}
+._toolbar{
+    width: 100%;
+    background-color: rgba(206, 155, 61, 0.438);
+}
+.boximage{
+    margin-top: 0px !important;
+}
+.inputsubandtitle{
+    margin-bottom: 3px;
+    width: 100%;
+    height: 60px !important;
+    border: 0.5px  solid  gray;
+    border-radius: 4px; 
+    padding:5px;
+}
+.inputsubandtitle:active {
+    border:1px solid #165080;
+}
